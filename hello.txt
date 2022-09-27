@@ -5,3 +5,7 @@ This line added directly in the github repo
 This line again added directly to test merge conflict
 
 Added this line under feature branch directly from github
+
+function test() {
+  console.log('hello')
+}
