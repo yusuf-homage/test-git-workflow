@@ -2,6 +2,8 @@ This is simple hello file
 
 This line added directly in the github repo
 
+somethig 
+
 This line again added directly to test merge conflict
 
 
